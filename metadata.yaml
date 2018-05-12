@@ -1,0 +1,27 @@
+_repo: Boy-Scouts-on-a-Long-Hike--Or-To-the-Rescue-in-the-Black-Water-Swamps_18952
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18952-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Fletcher, Archibald Lee
+    gutenberg_agent_id: '4406'
+    url: http://www.gutenberg.org/2009/agents/4406
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hiking -- Juvenile fiction'
+- !lcsh 'Swamps -- Juvenile fiction'
+title: Boy Scouts on a Long Hike; Or, To the Rescue in the Black Water Swamps
+url: http://www.gutenberg.org/ebooks/18952
